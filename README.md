@@ -11,9 +11,9 @@
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/YassineIdiri/Angular_RecipeSharingWebsite.svg)
-![Commits](https://img.shields.io/github/commit-activity/m/YassineIdiri/Angular_RecipeSharingWebsite.svg)
-![Languages](https://img.shields.io/github/languages/top/YassineIdiri/Angular_RecipeSharingWebsite.svg)
+![Repo Size](https://img.shields.io/github/repo-size/YassineIdiri/SpringBoot_RecipeSharingWebsite.svg)
+![Commits](https://img.shields.io/github/commit-activity/m/YassineIdiri/SpringBoot_RecipeSharingWebsite.svg)
+![Languages](https://img.shields.io/github/languages/top/YassineIdiri/SpringBoot_RecipeSharingWebsite.svg)
 
 </div>
 
